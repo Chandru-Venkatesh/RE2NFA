@@ -1,4 +1,3 @@
-```markdown
 # Conversion of Regular Expression into Non-Deterministic Finite Automaton (NFA)
 
 Thompson's construction algorithm, which converts the RE step-by-step into an NFA by breaking down the expression into smaller sub-expressions. The most common operations in regular expressions include:
@@ -20,10 +19,6 @@ Represents the entire NFA with a start state and an accept state.
 3. Compile the code using:
    ```sh
    javac ThompsonConstruction.java
-   ```
 4. Run the program with:
-   ```sh
+    ```sh
    java ThompsonConstruction
-   ```
-```
-
